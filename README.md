@@ -11,7 +11,7 @@ Below are three images representing the original, the PHP converted image, and t
 <img src="demo.png">
 
 > [!NOTE]  
-> The `image-rendering: pixelated;` stylke prevents the browser from trying to optimize the iamge.
+> The `image-rendering: pixelated;` style prevents the browser from trying to optimize the iamge.
 
 ---
 
