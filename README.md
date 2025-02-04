@@ -1,6 +1,6 @@
-# php-pixelatte
-Convering an image to an 8bit pixelatted version.
+# Pixelating an Image
 
+Converting an image to an 8-bit pixelated version using vanilla PHP and GD library.
 
 ---
 
@@ -14,9 +14,8 @@ This project uses vanilla [PHP](https://www.php.net/).
 
 ## Repo Resources
 
-* [BrickMMO](https://www.brickmmo.com/)
-* [GitHub Personal Access Toekn](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+* [GD Library](https://www.php.net/manual/en/book.image.php)
 
-<a href="https://brickmmo.com">
-<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
