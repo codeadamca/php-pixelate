@@ -8,15 +8,7 @@ https://stackoverflow.com/questions/5752514/how-to-convert-png-to-8-bit-png-usin
 
 Below are three images representing the original, the PHP converted image, and the same image converted using Photoshop:
 
-<style>
-.pixelate {
-  image-rendering: pixelated;
-}
-</style>
-
-<img src="bird.jpg" width="200" class="pixelate">
-<img src="bird-pixelated.gif" width="200" class="pixelate">
-<img src="bird-converted.png" width="200" class="pixelate">
+<img src="demo.png">
 
 > [!NOTE]  
 > The `image-rendering: pixelated;` stylke prevents the browser from trying to optimize the iamge.
