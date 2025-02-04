@@ -6,6 +6,10 @@ The original function logic was inspired by the following Stack Overflow questio
 
 https://stackoverflow.com/questions/5752514/how-to-convert-png-to-8-bit-png-using-php-gd-library
 
+Below are three images representing the original, the PHP converted image, and the same image converted using Photoshop:
+
+[Original](bird.jpg] [Converted](bird-pixeelated.gif] [Photoshop](bird-converted.gif]
+
 ---
 
 ## Project Stack
